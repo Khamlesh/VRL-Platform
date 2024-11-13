@@ -36,7 +36,7 @@ Mentor
 
 - ## Team Members
 
-- V Poorna Chandra - [@krishnasais](https://github.com/krishnasais) - Team Member
+- V Poorna Chandra - [@poornachandra](https://github.com/Hackerpoorna/poorna.git ) - Team Member
 - B Khamlesh Gupta - [@khamlesh](https://github.com/Khamlesh) - Team Member
 - A Mohan Chandra  - [@mohanchandra](https://github.com/Ma8886) - Team Member
 - *D Hari Charan  - [@haricharan](https://github.com/Hari87690) - Team Member
